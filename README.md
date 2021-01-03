@@ -7,7 +7,7 @@
 
 **Variable Types:** In my language there are 3 variable types that are num , letter and float. Num is used for integer numbers, float is used for float numbers and letter is used for single characters.The variable definition is made with an arrow as “->”.
 
-```c
+```ruby
 letter-> ab;
 num ->b; # syntax error##
 ```
