@@ -9,7 +9,7 @@
 
 ```c
 letter-> ab;
-num ->b; //syntax error
+num ->b; # syntax error##
 ```
 **Variable Name:** Variable names cannot start with a number, there cannot be spaces between them. '_' can be used. Reverse words cannot be used as variable names.
 
