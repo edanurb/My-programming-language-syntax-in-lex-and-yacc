@@ -1,4 +1,4 @@
-# My-programming-language-syntax-in-lex-and-yacc
+
   ## DESCRİPTİON OF SYNTAX THE RULES
   
   
@@ -58,3 +58,12 @@ print “print string” + a;
 a=input();
 ```
 
+## HOW TO RUN?
+
+```
+$ lex mpl.l
+$ yacc mpl.y
+$ gcc -o mpl y.tab.c -lfl
+$ ./mpl< myprog.mpl
+```
+ If there is no syntax error in myprog.mpl, the program should give an “OK” message, otherwise, a “syntax error” message.
