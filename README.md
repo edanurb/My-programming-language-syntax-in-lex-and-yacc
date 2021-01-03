@@ -1,5 +1,7 @@
 
-  ## DESCRİPTİON OF SYNTAX THE RULES
+ I created my own programming language with lex and yacc. My language contains only syntax rules. I do not deal with any semantic rule. 
+ 
+ ## DESCRİPTİON OF SYNTAX THE RULES
   
   
 **Sentence Structure:** each sentence is separated from each other by semicolon (;).Whitespaces are ignored
